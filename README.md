@@ -1,6 +1,6 @@
 ### Hi, I am Abhishek 👋
 
-- 🔭 I’m complete B.Tech in Electronic & Communication Engineering
+- 🔭 I completed B.Tech in Electronic & Communication Engineering
 - 🌱 From DAV INSTITUTE OF ENGINEERING AND TECNOLOGY,Jalandhar.
 - 👯 I’m currently learning HTML,CSS, JAVASCRIPT , PYTHON....
 - 📧 abhishek9693abc@gmail.com
